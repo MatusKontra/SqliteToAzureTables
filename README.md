@@ -1,4 +1,4 @@
-# SqliteToAzureTables
+# Sqlite To Azure Tables
 
 Pushes contents of a given sqlite table to AzureTableStorage
 Requires dotnetcore-sdk 5
